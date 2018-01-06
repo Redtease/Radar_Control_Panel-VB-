@@ -1,0 +1,15 @@
+C:\Users\jeanninm\Documents\USB stick demonstrator\RFbeam_Radar_Panel\Radar_Control_Panel\bin\Release\Radar Control Panel.exe.manifest
+C:\Users\jeanninm\Documents\USB stick demonstrator\RFbeam_Radar_Panel\Radar_Control_Panel\bin\Release\Radar Control Panel.application
+C:\Users\jeanninm\Documents\USB stick demonstrator\RFbeam_Radar_Panel\Radar_Control_Panel\bin\Release\Radar Control Panel.exe
+C:\Users\jeanninm\Documents\USB stick demonstrator\RFbeam_Radar_Panel\Radar_Control_Panel\bin\Release\Radar Control Panel.pdb
+C:\Users\jeanninm\Documents\USB stick demonstrator\RFbeam_Radar_Panel\Radar_Control_Panel\bin\Release\Radar Control Panel.xml
+C:\Users\jeanninm\Documents\USB stick demonstrator\RFbeam_Radar_Panel\Radar_Control_Panel\obj\x86\Release\Radar_Control_Panel.Main_Window.resources
+C:\Users\jeanninm\Documents\USB stick demonstrator\RFbeam_Radar_Panel\Radar_Control_Panel\obj\x86\Release\Radar_Control_Panel.Resources.resources
+C:\Users\jeanninm\Documents\USB stick demonstrator\RFbeam_Radar_Panel\Radar_Control_Panel\obj\x86\Release\Radar_Control_Panel.vbproj.GenerateResource.Cache
+C:\Users\jeanninm\Documents\USB stick demonstrator\RFbeam_Radar_Panel\Radar_Control_Panel\obj\x86\Release\Radar Control Panel.TrustInfo.xml
+C:\Users\jeanninm\Documents\USB stick demonstrator\RFbeam_Radar_Panel\Radar_Control_Panel\obj\x86\Release\Radar Control Panel.exe.manifest
+C:\Users\jeanninm\Documents\USB stick demonstrator\RFbeam_Radar_Panel\Radar_Control_Panel\obj\x86\Release\Radar Control Panel.application
+C:\Users\jeanninm\Documents\USB stick demonstrator\RFbeam_Radar_Panel\Radar_Control_Panel\obj\x86\Release\Radar Control Panel.exe
+C:\Users\jeanninm\Documents\USB stick demonstrator\RFbeam_Radar_Panel\Radar_Control_Panel\obj\x86\Release\Radar Control Panel.xml
+C:\Users\jeanninm\Documents\USB stick demonstrator\RFbeam_Radar_Panel\Radar_Control_Panel\obj\x86\Release\Radar Control Panel.pdb
+C:\Users\jeanninm\Documents\USB stick demonstrator\RFbeam_Radar_Panel\Radar_Control_Panel\obj\x86\Release\Radar_Control_Panel.vbprojResolveAssemblyReference.cache
